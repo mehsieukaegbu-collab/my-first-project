@@ -2,7 +2,8 @@
 
 Learning programming and building projects
 
-Hi
+Hi.
+
 I am a Computer Engineering student learning software development.
 
 ### Interests
